@@ -1,0 +1,12 @@
+# GET   http://localhost:5000/api/accounts/users
+# GET   http://localhost:5000/api/accounts/users?search=gh
+# post  http://localhost:5000/api/accounts/signup 
+# GET   http://localhost:5000/api/chats
+Content-Type: application/json
+
+{
+    "userName":"po",
+    "email":"po@gmail.com",
+    "password":"password"
+   
+}
